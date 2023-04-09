@@ -1,0 +1,15 @@
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\bin\Debug\net7.0\3.Control_work.exe
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\bin\Debug\net7.0\3.Control_work.deps.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\bin\Debug\net7.0\3.Control_work.runtimeconfig.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\bin\Debug\net7.0\3.Control_work.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\bin\Debug\net7.0\3.Control_work.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\3.Control_work.csproj.AssemblyReference.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\3.Control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\3.Control_work.AssemblyInfoInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\3.Control_work.AssemblyInfo.cs
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\3.Control_work.csproj.CoreCompileInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\3.Control_work.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\refint\3.Control_work.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\3.Control_work.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\3.Control_work.genruntimeconfig.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\3.Control_work\obj\Debug\net7.0\ref\3.Control_work.dll
